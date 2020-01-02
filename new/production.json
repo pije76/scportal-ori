@@ -1,0 +1,12 @@
+{
+    "ALLOWED_HOSTS": ["*"],
+    "DATABASE_URL": "postgres:///portal",
+    "CACHE_LOCATION": "localhost:11211",
+    "SECRET_KEY": "scnordic-ba^&ub$_9p1$7hifwsjn!f&8nk)tmr%!9^*isiv-1v!lv4@_#@-scnordic",
+    "ENERGINET_CO2_USER": "",
+    "ENERGINET_CO2_PASS": "",
+    "NORDPOOL_USER": "",
+    "NORDPOOL_PASS": "",
+    "BROKER_URL": "amqp://guest:guest@localhost:5672//",
+    "SITE_MAIL_ADDRESS": "noreply@scnordic.com"
+}

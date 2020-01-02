@@ -1,0 +1,210 @@
+From portal@portal  Tue Feb 24 14:37:06 2015
+Return-Path: <portal@portal>
+X-Original-To: portal
+Delivered-To: portal@portal
+Received: by portal (Postfix, from userid 1000)
+	id CCD93652BD; Tue, 24 Feb 2015 14:37:06 +0100 (CET)
+From: root@portal (Cron Daemon)
+To: portal@portal
+Subject: Cron <portal@portal> while ! $HOME/gridplatform/scripts/production/manage.sh check_db_connection ; do sleep 10; done; $HOME/start.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home/portal>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=portal>
+Message-Id: <20150224133706.CCD93652BD@portal>
+Date: Tue, 24 Feb 2015 14:37:06 +0100 (CET)
+
+Not connected
+connected
+[1;36mcelery multi v3.1.8 (Cipater)[0m
+> Starting nodes...
+	> celery@portal: [1;32mOK[0m
+[1;36mcelery multi v3.1.8 (Cipater)[0m
+> Starting nodes...
+	> celery_reports@portal: [1;32mOK[0m
+
+From portal@portal  Tue Feb 24 14:39:03 2015
+Return-Path: <portal@portal>
+X-Original-To: portal
+Delivered-To: portal@portal
+Received: by portal (Postfix, from userid 1000)
+	id 1B7E0652E5; Tue, 24 Feb 2015 14:39:03 +0100 (CET)
+From: root@portal (Cron Daemon)
+To: portal@portal
+Subject: Cron <portal@portal> while ! $HOME/gridplatform/scripts/production/manage.sh check_db_connection ; do sleep 10; done; $HOME/start.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home/portal>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=portal>
+Message-Id: <20150224133903.1B7E0652E5@portal>
+Date: Tue, 24 Feb 2015 14:39:03 +0100 (CET)
+
+Not connected
+connected
+[1;36mcelery multi v3.1.8 (Cipater)[0m
+> Starting nodes...
+	> celery@portal: [1;32mOK[0m
+[1;36mcelery multi v3.1.8 (Cipater)[0m
+> Starting nodes...
+	> celery_reports@portal: [1;32mOK[0m
+
+From portal@portal  Tue Feb 24 14:43:24 2015
+Return-Path: <portal@portal>
+X-Original-To: portal
+Delivered-To: portal@portal
+Received: by portal (Postfix, from userid 1000)
+	id 710586528E; Tue, 24 Feb 2015 14:43:24 +0100 (CET)
+From: root@portal (Cron Daemon)
+To: portal@portal
+Subject: Cron <portal@portal> while ! $HOME/gridplatform/scripts/production/manage.sh check_db_connection ; do sleep 10; done; $HOME/start.sh > /dev/null
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home/portal>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=portal>
+Message-Id: <20150224134324.710586528E@portal>
+Date: Tue, 24 Feb 2015 14:43:24 +0100 (CET)
+
+Not connected
+connected
+[1;36mcelery multi v3.1.8 (Cipater)[0m
+> Starting nodes...
+	> celery@portal: [1;32mOK[0m
+[1;36mcelery multi v3.1.8 (Cipater)[0m
+> Starting nodes...
+	> celery_reports@portal: [1;32mOK[0m
+
+From portal@portal  Tue Feb 24 14:51:43 2015
+Return-Path: <portal@portal>
+X-Original-To: portal
+Delivered-To: portal@portal
+Received: by portal (Postfix, from userid 1000)
+	id 27A046528A; Tue, 24 Feb 2015 14:51:43 +0100 (CET)
+From: root@portal (Cron Daemon)
+To: portal@portal
+Subject: Cron <portal@portal> while ! $HOME/gridplatform/scripts/production/manage.sh check_db_connection ; do sleep 10; done; $HOME/start.sh > /dev/null
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home/portal>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=portal>
+Message-Id: <20150224135143.27A046528A@portal>
+Date: Tue, 24 Feb 2015 14:51:43 +0100 (CET)
+
+Not connected
+connected
+[1;36mcelery multi v3.1.8 (Cipater)[0m
+> Starting nodes...
+	> celery@portal: [1;32mOK[0m
+[1;36mcelery multi v3.1.8 (Cipater)[0m
+> Starting nodes...
+	> celery_reports@portal: [1;32mOK[0m
+
+From portal@portal  Tue Feb 24 22:08:27 2015
+Return-Path: <portal@portal>
+X-Original-To: portal
+Delivered-To: portal@portal
+Received: by portal (Postfix, from userid 1000)
+	id 9BBE265286; Tue, 24 Feb 2015 22:08:27 +0100 (CET)
+From: root@portal (Cron Daemon)
+To: portal@portal
+Subject: Cron <portal@portal> while ! $HOME/gridplatform/scripts/production/manage.sh check_db_connection ; do sleep 10; done; $HOME/start.sh > /dev/null
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home/portal>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=portal>
+Message-Id: <20150224210827.9BBE265286@portal>
+Date: Tue, 24 Feb 2015 22:08:27 +0100 (CET)
+Status: O
+X-UID: 3
+
+Not connected
+connected
+[1;36mcelery multi v3.1.8 (Cipater)[0m
+> Starting nodes...
+	> celery@portal: [1;32mOK[0m
+[1;36mcelery multi v3.1.8 (Cipater)[0m
+> Starting nodes...
+	> celery_reports@portal: [1;32mOK[0m
+
+From portal@portal  Tue Feb 24 22:15:01 2015
+Return-Path: <portal@portal>
+X-Original-To: portal
+Delivered-To: portal@portal
+Received: by portal (Postfix, from userid 1000)
+	id ABC9B652F7; Tue, 24 Feb 2015 22:15:01 +0100 (CET)
+From: root@portal (Cron Daemon)
+To: portal@portal
+Subject: Cron <portal@portal> $HOME/gridplatform/rabbitmq-check.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home/portal>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=portal>
+Message-Id: <20150224211501.ABC9B652F7@portal>
+Date: Tue, 24 Feb 2015 22:15:01 +0100 (CET)
+Status: O
+X-UID: 4
+
+sudo: no tty present and no askpass program specified
+
+From portal@portal  Tue Feb 24 22:35:06 2015
+Return-Path: <portal@portal>
+X-Original-To: portal
+Delivered-To: portal@portal
+Received: by portal (Postfix, from userid 1000)
+	id 77977652E6; Tue, 24 Feb 2015 22:35:06 +0100 (CET)
+From: root@portal (Cron Daemon)
+To: portal@portal
+Subject: Cron <portal@portal> while ! $HOME/gridplatform/scripts/production/manage.sh check_db_connection ; do sleep 10; done; $HOME/start.sh > /dev/null
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home/portal>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=portal>
+Message-Id: <20150224213506.77977652E6@portal>
+Date: Tue, 24 Feb 2015 22:35:06 +0100 (CET)
+Status: O
+X-UID: 5
+
+Not connected
+connected
+[1;36mcelery multi v3.1.8 (Cipater)[0m
+> Starting nodes...
+	> celery@portal: [1;32mOK[0m
+[1;36mcelery multi v3.1.8 (Cipater)[0m
+> Starting nodes...
+	> celery_reports@portal: [1;32mOK[0m
+
+From portal@portal  Tue Feb 24 14:54:40 2015
+Return-Path: <portal@portal>
+X-Original-To: portal
+Delivered-To: portal@portal
+Received: by portal (Postfix, from userid 1000)
+	id 7D8A7652E6; Tue, 24 Feb 2015 14:54:40 +0100 (CET)
+From: root@portal (Cron Daemon)
+To: portal@portal
+Subject: Cron <portal@portal> while ! $HOME/gridplatform/scripts/production/manage.sh check_db_connection ; do sleep 10; done; $HOME/start.sh > /dev/null
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home/portal>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=portal>
+Message-Id: <20150224135440.7D8A7652E6@portal>
+Date: Tue, 24 Feb 2015 14:54:40 +0100 (CET)
+X-IMAPbase: 1424813844 6
+Status: O
+X-UID: 2
+
+Not connected
+connected
+[1;36mcelery multi v3.1.8 (Cipater)[0m
+> Starting nodes...
+	> celery@portal: [1;32mOK[0m
+[1;36mcelery multi v3.1.8 (Cipater)[0m
+> Starting nodes...
+	> celery_reports@portal: [1;32mOK[0m
+
